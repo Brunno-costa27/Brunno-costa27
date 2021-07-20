@@ -31,7 +31,7 @@
 
 [![Brunno Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunno-costa27)](https://github.com/Brunno-costa27/github-readme-stats)
 
-img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+<code><img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black></code>
 img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
 img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
 img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
