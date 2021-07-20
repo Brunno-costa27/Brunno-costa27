@@ -28,11 +28,6 @@
 ----------------------------------------------------------------------------------
 
 
-Brunno Costa.
-
-github.com/Brunno-costa27.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 [![Brunno Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunno-costa27)](https://github.com/Brunno-costa27/github-readme-stats)
 
