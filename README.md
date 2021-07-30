@@ -27,10 +27,6 @@
 
 ----------------------------------------------------------------------------------
 
-
-
-[![Brunno Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunno-costa27)](https://github.com/Brunno-costa27/github-readme-stats)
-
 <code><img height= "20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height= "20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height= "20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
