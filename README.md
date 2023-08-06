@@ -4,16 +4,7 @@
 
 ## I'm Brunno Costa!
 
-<style>
-    /* Estilos CSS personalizados para a imagem */
-    .centered-image {
-      display: block;
-      margin: 0 auto;
-      width: 300px;
-      border-radius: 5px;
-      box-shadow: 2px 2px 5px #888888;
-    }
-  </style>
+
 
 
 <p align="center">
