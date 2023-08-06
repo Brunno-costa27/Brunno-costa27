@@ -4,7 +4,9 @@
 
 ## I'm Brunno Costa!
 
+<div align="center>
  <img src="https://github.com/Brunno-costa27.png" alt="Avatar" />
+</div>
 
 :computer: I'm web Developer!
 
