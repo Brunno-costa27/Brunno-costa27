@@ -8,6 +8,8 @@
  <img src="https://github.com/Brunno-costa27.png" alt="Avatar" />
 </div>
 
+![Brunno Costa](https://github.com/Brunno-costa27.png)
+
 :computer: I'm web Developer!
 
 :house_with_garden: I’m from Brazil.
