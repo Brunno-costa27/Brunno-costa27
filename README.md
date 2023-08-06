@@ -5,10 +5,9 @@
 ## I'm Brunno Costa!
 
 <div align="center>
- <img src="https://github.com/Brunno-costa27.png" alt="Avatar" />
+![Brunno Costa](https://github.com/Brunno-costa27.png)
 </div>
 
-![Brunno Costa](https://github.com/Brunno-costa27.png)
 
 :computer: I'm web Developer!
 
