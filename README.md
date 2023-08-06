@@ -5,7 +5,7 @@
 ## I'm Brunno Costa!
 
 <p align="center">
-  <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
+  <img style="border: 1px solid white" src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </p>
 
 
