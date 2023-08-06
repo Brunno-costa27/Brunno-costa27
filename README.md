@@ -4,8 +4,20 @@
 
 ## I'm Brunno Costa!
 
+<style>
+    /* Estilos CSS personalizados para a imagem */
+    .centered-image {
+      display: block;
+      margin: 0 auto;
+      width: 300px;
+      border-radius: 5px;
+      box-shadow: 2px 2px 5px #888888;
+    }
+  </style>
+
+
 <p align="center">
-  <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada"  style="border: 1px solid white; border-radius: 8px;" >
+  <img class=centered-image src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada"  style="border: 1px solid white; border-radius: 8px;" >
 </p>
 
 
