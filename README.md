@@ -4,8 +4,8 @@
 
 ## I'm Brunno Costa!
 
-<p align="center" border-radius="9px">
-  <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
+<p align="center">
+  <img border-radius="9px" src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </p>
 
 
