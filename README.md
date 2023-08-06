@@ -4,7 +4,7 @@
 
 ## I'm Brunno Costa!
 
-<p align="center"  style="border-radius: 5px">
+<p align="center"  border-radius: 5px>
   <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </p>
 
