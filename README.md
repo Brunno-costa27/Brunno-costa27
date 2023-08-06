@@ -6,11 +6,11 @@
 
  
 
-:computer: I'm Back-End Developer!
+:computer: I'm web Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning node.js.
+:books: I’m currently learning ReactJs, nodeJs e React native.
 
 <div align="center">
   <a href="https://Brunno-costa27">
