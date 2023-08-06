@@ -4,9 +4,11 @@
 
 ## I'm Brunno Costa!
 
-<div align="center>
 ![Brunno Costa](https://github.com/Brunno-costa27.png)
-</div>
+
+<p align="center">
+  <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
+</p>
 
 
 :computer: I'm web Developer!
