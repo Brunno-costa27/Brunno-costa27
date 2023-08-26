@@ -7,9 +7,9 @@
 
 
 
-<p align="center">
+<div align="center">
   <img class=centered-image src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada"  style="border: 1px solid white; border-radius: 8px;" >
-</p>
+</div>
 
 
 :computer: I'm web Developer!
