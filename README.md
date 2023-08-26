@@ -7,8 +7,8 @@
 
 
 
-<div align="center" style="border-radius: 8px;">
-  <img class=centered-image src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
+<div align="center">
+  <img style="border-radius: 90px" class=centered-image src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
 
