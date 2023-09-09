@@ -8,7 +8,7 @@
 
 <div>
  
-<div align="right">
+<div display="flex">
   <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
