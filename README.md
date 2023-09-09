@@ -9,13 +9,15 @@
 
 <div align="center">
   <img style="border-radius: 90px" src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
-:computer: I'm web Developer!
+</div>
+
+<div align="center">
+ :computer: I'm web Developer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning ReactJs, nodeJs e React native.
 </div>
-
 
 
 <div align="center">
