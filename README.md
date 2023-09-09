@@ -6,17 +6,19 @@
 
 
 
-
-<div align="center">
+<div style="display:flex">
+ 
+<div>
   <img style="border-radius: 90px" src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
-<div align="center">
+<div>
  :computer: I'm web Developer!
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning ReactJs, nodeJs e React native.
+</div>
 </div>
 
 
