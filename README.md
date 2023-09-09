@@ -2,13 +2,10 @@
 
 ## Olá, eu sou Brunno Costa!
 
-<div>
-  <img src="https://github.com/Brunno-costa27.png" alt="Imagem de perfil" align="left" width="150" height="150">
 
 :computer: Sou desenvolvedor web!<br>
 :house_with_garden: Sou do Brasil.<br>
 :books: Atualmente, estou aprendendo ReactJs, Node.js e React Native.
-</div>
 
 <br>
 
