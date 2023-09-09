@@ -6,7 +6,7 @@
 
 
 <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
-:computer : Sou desenvolvedor web! :house_with_garden: Sou do Brasil. 
+:computer: Sou desenvolvedor web! :house_with_garden: Sou do Brasil. 
 :books: Atualmente estou aprendendo ReactJs, nodeJs e React Native.
 
 
