@@ -6,20 +6,11 @@
 
 
 
-<div style="display: flex">
  
-<div>
-  <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
-</div>
+ | ![Imagem](https://github.com/Brunno-costa27.png) | :computer: I'm a web Developer! |
+| :--------------------------------------------: | :-----------------------------: |
+|            :house_with_garden: I’m from Brazil.            |    :books: I’m currently learning ReactJs, nodeJs, and React native.  |
 
-<div>
- :computer: I'm web Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning ReactJs, nodeJs e React native.
-</div>
-</div>
 
 
 <div align="center">
