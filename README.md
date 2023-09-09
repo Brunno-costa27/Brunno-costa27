@@ -6,13 +6,13 @@
 
 
 
-<div display="flex">
+<div style="display">
  
 <div>
   <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
-<div align="left">
+<div>
  :computer: I'm web Developer!
 
 :house_with_garden: I’m from Brazil.
