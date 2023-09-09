@@ -5,11 +5,11 @@
 ## I'm Brunno Costa!
 
 
+<img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
+:computer : Sou desenvolvedor web! :house_with_garden: Sou do Brasil. 
+:books: Atualmente estou aprendendo ReactJs, nodeJs e React Native.
 
- 
- | ![Imagem](https://github.com/Brunno-costa27.png) | :computer: I'm a web Developer! |
-| :--------------------------------------------: | :-----------------------------: |
-|            :house_with_garden: I’m from Brazil.            |    :books: I’m currently learning ReactJs, nodeJs, and React native.  |
+
 
 
 
