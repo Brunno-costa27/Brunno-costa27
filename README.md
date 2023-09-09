@@ -8,11 +8,11 @@
 
 <div style="display:flex">
  
-<div style="border-radius: 90px">
+<div align="right">
   <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
-<div>
+<div align="left">
  :computer: I'm web Developer!
 
 :house_with_garden: I’m from Brazil.
