@@ -8,8 +8,8 @@
 
 <div style="display:flex">
  
-<div>
-  <img style="border-radius: 90px" src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
+<div style="border-radius: 90px">
+  <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
 <div>
