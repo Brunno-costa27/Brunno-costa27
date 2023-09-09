@@ -6,7 +6,7 @@
 
 
 
-<div style="display">
+<div style="display: flex">
  
 <div>
   <img src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
