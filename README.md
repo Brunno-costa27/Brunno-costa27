@@ -7,7 +7,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <img style="border-radius: 90px" class=centered-image src="https://github.com/Brunno-costa27.png" alt="Imagem centralizada">
 </div>
 
